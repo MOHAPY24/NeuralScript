@@ -56,7 +56,9 @@ Forget strict programming — this is **esoteric AI sorcery**.
    ```bash
    pip install openai
    ```
-2. Write some cursed code in a `.nss` file:
+2. Add your OpenAi API key in the code.
+   
+3. Write some cursed code in a `.nss` file:
 
    ```
    begin read machine class main[];
@@ -64,12 +66,12 @@ Forget strict programming — this is **esoteric AI sorcery**.
    print "🔥 CHAOS UNLEASHED 🔥";  
    end read machine class main[];
    ```
-3. Run it:
+4. Run it:
 
    ```bash
-   python3 interpreter.py program.nss
+   python3 neuralsc.py program.nss
    ```
-4. Watch your terminal turn into an **AI oracle**.
+5. Watch your terminal turn into an **AI oracle**.
 
 ---
 
