@@ -126,6 +126,3 @@ It’s not about solving problems — it’s about **summoning unpredictable out
 
 MIT License — do whatever you want. But if NeuralScript becomes sentient and takes over your toaster, that’s on you.
 
----
-
-Would you like me to also design a **funny beta tester badge** (ASCII or emoji-based) that testers can put in their profile/README to show they’re part of the NeuralScript chaos cult?
